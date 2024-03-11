@@ -4,7 +4,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 # I'm Cuukenn <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 - 👯 Currently working in **ShangHai, China**
-- 🤔 I love **Reading,Games**
 - 😄 You can visit the follow website
   - [Main](https://cuukenn.github.io)
   - [Gitee](https://gitee.com/cuukenn)

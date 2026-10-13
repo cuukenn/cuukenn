@@ -1,5 +1,5 @@
 # I'm Cuukenn <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  You Are My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) Visitor !!!
+  You Are My ![Visitor Count](https://komarev.com/ghpvc/?username=cuukenn&style=flat-square&color=blue) Visitor !!!
 <br/>  
 
 ## About ✨
